@@ -1,0 +1,315 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: url(archana123.jpg);
+    background-size: cover;
+}
+.main{
+   
+    
+}
+.one{
+    display: flex;
+    justify-content: center;
+align-items: center; 
+
+    position: relative; 
+
+    
+    
+width: 100vw;
+height: 30vh;
+.div1{
+    height: 100vh;
+    width: 100vw;
+    margin-left: 20%;
+    display: flex;
+justify-content: center;
+align-items: center;  
+
+   
+   
+    
+}
+.box1{
+    margin-left: 154px;
+    width: 35%;
+
+}
+.box2{
+    margin-left: -50px;
+    width: 35%;
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+
+}
+.form input{
+    width: 194px;
+    height: 19px;
+    background: rgb(240, 240, 203);
+    border-left: none;
+    border-right: none;
+   
+   
+}
+.i1{
+    border-bottom: none;
+   
+
+}
+.i2{
+    border-top: dotted;
+    border-bottom: none;
+
+}
+.i3{
+    border-top: dotted;
+
+}
+}
+.form .input[type="text"], textarea {
+
+    background-color : #d1d1d1; 
+  
+  }
+.two{
+   
+    display: flex;
+    justify-content: center;
+align-items: center; 
+
+width: 100vw;
+height: 30vh;
+}
+
+
+.div2{
+    height: 100vh;
+    width: 100vw;
+    margin-top: -42px;
+    margin-left: 32%;
+    display: flex;
+justify-content: center;
+align-items: center;
+    
+}
+.box3{
+    width: 35%;
+
+}
+.box4{
+    width: 50%;
+
+}
+
+
+.letters{
+    font-size: clamp(2rem, 2.5vw, 1.5rem);
+    height: 10px;
+    margin-left: 43px;
+    color: red;
+    letter-spacing: 15px;
+    margin-top: -19px;
+}
+.three{
+    
+    /* height: 100vh;
+    width: 100vw;
+    margin-left: 20%;
+    display: flex;
+justify-content: center;
+align-items: center;   */
+
+    position: relative;
+    justify-content: center;
+align-items: center;  
+  
+  width: 100vw;
+  height: 30vh;
+}
+.let34{
+     
+  width: 100vw;
+  height: 100vh;
+    display: flex;
+    font-size: clamp(2rem, 2.5vw, 1.5rem);
+    height: 10px;
+    margin-left: 43px;
+    color: red;
+    letter-spacing: 15px;
+    margin-top: -19px;
+
+}
+.lt3{
+    height: 100%;
+    width: 30%;
+    margin-left: 34%;
+    margin-top: 33px;
+}
+.lt4{
+    height: 100%;
+    width: 30%;
+    margin-left: -6%;
+    margin-top: 33px;
+}
+.four{
+    display: flex;
+    justify-content: center;
+align-items: center; 
+
+    position: relative; 
+
+    
+    
+width: 100vw;
+height: 10vh;
+}
+
+.last-br{
+    position: relative;
+    border: rgb(23, 152, 202) solid;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.footer-ch{
+    position: absolute;
+    height: 45px;
+    width: 175px;
+    margin-left: -510px;
+    margin-top: -70px;
+    background-color: rgb(23, 152, 202);
+    color: white;
+    border-radius: 12px;
+    
+    border: 3px solid #efe807;
+}
+.blue{
+    position: absolute;
+    height: 120px;
+    width: 100px;
+    /* margin-top: -125px; */
+    margin-left: -600px;
+    margin-top: -90px;
+
+}
+ /*.upbtn{
+    height: 39px;
+    width: 132px;
+    margin-left: 11px;
+    margin-top: 10px;
+    background-color: #e0db47;
+    color: green;
+    border-radius: 12px;
+    border: none;
+}
+.navbar{
+   
+}
+.one{
+    justify-content: center;
+align-items: center; 
+
+    position: relative; 
+
+    
+    
+width: 100vw;
+height: 30vh;
+}
+.two{
+
+width: 100vw;
+height: 30vh;
+}
+.three{
+  position: relative;
+
+width: 100vw;
+height: 30vh;
+}
+.one  img {
+    margin-left: 10px;
+    margin: 15px;
+    height: 78pxpx;
+    width: 117px;
+    border-radius: 3px;
+
+}
+.letter{
+    margin-left: 43px;
+    color: red;
+    letter-spacing: 15px;
+    margin-top: -19px;
+}
+.div1{
+    margin-left: 20%;
+    display: flex;
+justify-content: center;
+align-items: center; 
+
+   
+   
+    
+}
+.div2{
+    margin-top: -42px;
+    margin-left: 32%;
+    display: flex;
+justify-content: center;
+align-items: center;
+    
+}
+.box1{
+    width: 35%;
+
+}
+.box2{
+    width: 35%;
+
+}
+
+.box5{
+
+    width: 50%;
+}
+.int{
+    margin: 8px;
+    height: 34px;
+    width: 127px;
+    margin-left: -21px;
+    border: 2px solid #efe807;
+    border-radius: 16px;
+}
+.nest{
+    height: 100%;
+    width: 30%;
+    margin-left: 37%;
+    margin-top: 33px;
+}
+.star{
+     height: 155px;
+    margin-top: -131px;
+    position: absolute;
+    margin-left: 78%;
+    margin-top: -185px; 
+}
+ margin: 133px;
+    width: 250px;
+    height: 50px;
+    background: #eee;
+    border-bottom: 5px solid transparent;
+    border-image: linear-gradient(to right, black 56%, black -112%, transparent 30%);
+    border-image-slice: 1; */
